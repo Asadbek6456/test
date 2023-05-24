@@ -133,3 +133,12 @@ ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть п
 [2023-05-11T17:02:17Z] *** Save Model ***
 [2023-05-11T17:02:18Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
 [2023-05-11T17:02:18Z] *** Save Library ***
+[2023-05-24T16:18:21Z] *** Open Library ***
+[2023-05-24T16:18:21Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2023-05-24T16:18:21Z] *** Open Model ***
+[2023-05-24T16:18:21Z] Compact callbacks (2 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(2 ms) UpdateModelIdsAfterCompactingCB(0 ms) SketchRepository_c(0 ms) 
+[2023-05-24T16:18:25Z] Model sharing key not found in directory: C:\Users\user\Desktop\test\Стол угловой для ПК Мой\.
+[2023-05-24T16:25:08Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(0 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2023-05-24T16:25:08Z] *** Save Model ***
+[2023-05-24T16:25:08Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2023-05-24T16:25:08Z] *** Save Library ***

@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<ImportPart>
-  <Info>
-    <Name>Concrete_Default</Name>
-    <BrepStorageId>a287fe15-1e38-4d49-97ad-0cf33fd39202</BrepStorageId>
-    <Guid>3867b791-53bf-4195-ab6a-ab5fa6d5a293</Guid>
-    <Extrema>
-      <MinPoint X="-0.00367989" Y="-100" Z="-111.364"/>
-      <MaxPoint X="399.996" Y="100" Z="88.6363"/>
-    </Extrema>
-    <IsSolid>True</IsSolid>
-  </Info>
+<?xml version="1.0" encoding="UTF-8"?>
+<ImportPart version="1.0">
+    <Info>
+        <Name>Concrete_Default</Name>
+        <BrepStorageId>a287fe15-1e38-4d49-97ad-0cf33fd39202</BrepStorageId>
+        <Guid>3867b791-53bf-4195-ab6a-ab5fa6d5a293</Guid>
+        <Extrema>
+            <MinPoint X="-0.0036798899999999999" Y="-100" Z="-111.364"/>
+            <MaxPoint X="399.99599999999998" Y="100" Z="88.636300000000006"/>
+        </Extrema>
+        <BrepGeomType>1</BrepGeomType>
+        <Fingerprint>200.102.600.4-50047.167079270141</Fingerprint>
+    </Info>
 </ImportPart>
