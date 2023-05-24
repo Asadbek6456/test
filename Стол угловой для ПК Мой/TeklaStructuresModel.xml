@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>Стол угловой для ПК Мой</Name>
+        <Designer> </Designer>
+        <Description> </Description>
+        <Version>2020 Service Pack 5</Version>
+        <ProductVersion>2020.0</ProductVersion>
+        <Language>rus</Language>
+        <Template></Template>
+        <Environment>russia</Environment>
+        <IsTemplate>FALSE</IsTemplate>
+        <XS_PROJECT></XS_PROJECT>
+        <XS_FIRM></XS_FIRM>
+        <XS_SYSTEM>C:\TeklaStructures\2020.0\\environments\russia\General\;C:\TeklaStructures\2020.0\\environments\russia\General\ComponentAttributeFiles\;C:\TeklaStructures\2020.0\\environments\russia\General\DrawingFilters\;C:\TeklaStructures\2020.0\\environments\russia\G</XS_SYSTEM>
+        <ConnectedId></ConnectedId>
+    </Model>
+</TeklaStructuresModels>

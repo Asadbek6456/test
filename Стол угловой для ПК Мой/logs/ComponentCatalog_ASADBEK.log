@@ -1,0 +1,6 @@
+11.05.2023 17:14:00 Information:Previous log file path: 'C:\Users\user\AppData\Local\Trimble\Tekla Structures\2020.0\CatalogTreeFeature\2020.0.0.0\ComponentCatalog_ASADBEK.log'
+11.05.2023 17:14:00 Information:New log file path: 'E:\TeklaStructuresModels\Стол угловой для ПК Мой\logs\ComponentCatalog_ASADBEK.log'
+11.05.2023 17:14:09 Error:В Tekla Structures не установлен компонент для элемента: CatalogMacroModelingItem?Export TBP?LOCAL, источник: c:\teklastructures\2020.0\environments\russia\general\componentattributefiles\componentcatalog.xml
+11.05.2023 17:14:09 Information:Previous log file path: 'E:\TeklaStructuresModels\Стол угловой для ПК Мой\logs\ComponentCatalog_ASADBEK.log'
+11.05.2023 17:14:09 Information:New log file path: 'E:\TeklaStructuresModels\Стол угловой для ПК Мой\logs\ComponentCatalog_ASADBEK.log'
+11.05.2023 17:14:09 Error:В Tekla Structures не установлен компонент для элемента: CatalogMacroModelingItem?Export TBP?LOCAL, источник: c:\teklastructures\2020.0\environments\russia\general\componentattributefiles\componentcatalog.xml
